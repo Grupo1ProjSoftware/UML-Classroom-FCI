@@ -19,13 +19,13 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Escola INFINITO*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Real Madrid C.F.*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*Nossa equipe recebeu a tarefa de projetar um software para controle de presença de alunos de uma determinada escola para turmas do primeiro ao quinto ano do Ensino Fundamental I. O programa deve exibir os dados coletados e registrar as informações de forma intuitiva, sendo acessível para professores e coordenadores. Os professores serão responsáveis por administrar os registros no sistema em dois momentos do dia: ao começo das aulas e após o intervalo em todos os dias letivos. O sistema deve indicar a porcentagem relativa de presença diária a respeito de cada matéria, sendo necessário ao estudante manter ao menos 75% de presença em cada disciplina.*
 
 # Documentação
 
