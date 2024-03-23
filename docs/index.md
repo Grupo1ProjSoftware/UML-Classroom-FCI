@@ -15,6 +15,8 @@
 - [Autores](#autores)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Funcionais](#análise-de-requisitos-funcionais-e-não-funcionais)
+  - [Requisitos funcionais:](#requisitos-funcionais)
+  - [Não-Funcionais:](#não-funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades)
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
@@ -38,8 +40,33 @@
 *&lt;Nossa equipe recebeu a tarefa de projetar um software para controle de presença de alunos de uma determinada escola para turmas do primeiro ao quinto ano do Ensino Fundamental I. O programa deve exibir os dados coletados e registrar as informações de forma intuitiva, sendo acessível para professores e coordenadores. Os professores serão responsáveis por administrar os registros no sistema em dois momentos do dia: ao começo das aulas e após o intervalo em todos os dias letivos. O sistema deve indicar a porcentagem relativa de presença diária a respeito de cada matéria, sendo necessário ao estudante manter ao menos 75% de presença em cada disciplina.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;\Requisitos funcionais:
-    - s&gt;*
+## Requisitos funcionais:
+
+-Registro de falta:
+    Os professores deverão ter acesso ao sistema para registrar as faltas duas vezes ao dia, referentes a cada matéria.
+
+-Relatório de faltas:
+    O programa deve gerar relatórios de faltas agrupados por data, ano de ensino, turma, professor, disciplina ou aluno. Permitindo aos coordenadores e professores que analisem de forma mais precisa o número de faltas, aprimorando o acompanhamento.
+
+-Notificações:
+    Quando o aluno apresentar uma porcentagem de comparecimento as aulas de uma determinada matéria inferior a 80% os pais do mesmo deverão ser notificados por e-mail pelo sistema.
+
+-Aprovação:
+    Ao final do ano, o programa baseado nas porcentagens relativas de presença dos alunos, deverá reprovar aqueles que não tiverem comparecido a 75% das aulas em cada matéria.
+
+## Não-Funcionais:
+
+-Acessibilidade:
+    O sistema deverá ser acessível por qualquer tipo de usuário, incluindo pessoas com deficiência e agregando features inclusivas e adaptativas à cada situação.
+
+-Segurança:
+    O sistema deve garantir a integridade das faltas, assegurando que apenas professores e coordenadores autorizados possam realizar o registro, além de impedir qualquer tipo de invasão.
+
+-Performance:
+    O programa apresentará como pilar de sua construção o rápido desempenho, permitindo que o processo de registro seja ágil se adaptando a rotina agitada das aulas.
+
+-Custo:
+    Sendo leve e não custoso o sistema não deverá consumir grandes recursos computacionais para seu funcionamento, visando não afetar o orçamento da instituição.
 
 # Diagrama de Atividades
 
