@@ -44,6 +44,7 @@
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+<img src="https://imgur.com/a/oqryuAX" alt="diagramaAtividades">
 
 # Diagrama de Casos de Uso
 
