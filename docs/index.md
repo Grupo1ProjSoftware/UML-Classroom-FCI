@@ -52,7 +52,7 @@
     Quando o aluno apresentar uma porcentagem de comparecimento as aulas de uma determinada matéria inferior a 80% os pais do mesmo deverão ser notificados por e-mail pelo sistema.
 
 -Aprovação:
-    Ao final do ano, o programa baseado nas porcentagens relativas de presença dos alunos, deverá reprovar aqueles que não tiverem comparecido a 75% das aulas em cada matéria.
+    Ao final do ano, o programa informa aos respectivos coordenadores, as porcentagens relativas de presença dos alunos, que deverão reprovar aqueles que não tiverem comparecido a 75% das aulas em cada matéria.
 
 ## Não-Funcionais:
 
