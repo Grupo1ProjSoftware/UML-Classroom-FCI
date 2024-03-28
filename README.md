@@ -22,6 +22,10 @@ A seguir, os passos para a preparação do projeto:
 # Projeto: *Escola INFINITO*
 
 # Grupo: *Real Madrid C.F.*
+* Joaquim Rafael Mariano Prieto Pereira
+* Lucas Trebacchetti Eiras
+* Henrique Árabe Neres de Farias
+* Antonio Carlos Sciamarelli Neto
 
 # Descrição
 
