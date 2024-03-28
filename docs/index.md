@@ -71,16 +71,28 @@
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
-<img src="https://i.imgur.com/7KPJp3C.png" alt="diagramaAtividades">
+<img src="https://i.imgur.com/pjrBf3a.png" alt="diagramaAtividades">
 
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
-<img src="https://i.imgur.com/KVY8z7d.png" alt="diagramaCasosUso">
+<img src="https://i.imgur.com/XhUbdgA.png" alt="diagramaCasosUso">
 
 # Descrição dos Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+
+* Caso 1
+<img src="https://i.imgur.com/pDJlMYc.png" alt="caso1">
+* Caso 2
+<img src="https://i.imgur.com/s1ixQz2.png" alt="caso2">
+* Caso 3
+<img src="https://i.imgur.com/ukIx76q.png" alt="caso3">
+* Caso 4
+<img src="https://i.imgur.com/pjKr6q1.png" alt="caso4">
+* Caso 5
+<img src="https://i.imgur.com/kmjTgSS.png" alt="caso5">
+
 
 # Diagrama de Sequência
 
