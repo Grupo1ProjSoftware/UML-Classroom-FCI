@@ -95,6 +95,8 @@
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
 
+<img src ="https://i.imgur.com/t3dAOO3.png" alt="DiagramaSequencia">
+
 # Diagrama de Classes
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
