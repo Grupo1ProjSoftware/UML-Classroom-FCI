@@ -101,6 +101,8 @@
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
 
+<img src ="https://i.imgur.com/ZTZetuh.png" alt="DiagramaClasses">
+
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
