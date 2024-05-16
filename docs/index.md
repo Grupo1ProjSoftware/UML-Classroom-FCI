@@ -34,22 +34,22 @@
 
 # Descrição do Projeto
 
-*&lt;Nossa equipe recebeu a tarefa de projetar um software para controle de presença de alunos de uma determinada escola para turmas do primeiro ao quinto ano do Ensino Fundamental I. O programa deve exibir os dados coletados e registrar as informações de forma intuitiva, sendo acessível para professores e coordenadores. Os professores serão responsáveis por administrar os registros no sistema em dois momentos do dia: ao começo das aulas e após o intervalo em todos os dias letivos. O sistema deve indicar a porcentagem relativa de presença diária a respeito de cada matéria, sendo necessário ao estudante manter ao menos 75% de presença em cada disciplina.&gt;*
+*&lt;Nossa equipe recebeu a tarefa de projetar um software para controle de presença de alunos de uma determinada escola para turmas do primeiro ao quinto ano do Ensino Fundamental I. O programa deve exibir os dados coletados e registrar as informações de forma intuitiva, sendo acessível para professores e coordenadores. Os professores serão responsáveis por administrar os registros no sistema em dois momentos do dia: ao começo das aulas e após o intervalo em todos os dias letivos. O sistema deve indicar a porcentagem relativa de presença até o momento, sendo necessário ao estudante manter ao menos 75% de comparecimento as aulas ao final do ano letivo.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 ## Requisitos funcionais:
 
 -Registro de falta:
-    Os professores deverão ter acesso ao sistema para registrar as faltas duas vezes ao dia, referentes a cada matéria.
+    Os professores deverão ter acesso ao sistema para registrar as faltas duas vezes ao dia, referentes a cada aluno.
 
 -Relatório de faltas:
     O programa deve gerar relatórios de faltas agrupados por data, ano de ensino, turma, professor, disciplina ou aluno. Permitindo aos coordenadores e professores que analisem de forma mais precisa o número de faltas, aprimorando o acompanhamento.
 
 -Notificações:
-    Quando o aluno apresentar uma porcentagem de comparecimento as aulas de uma determinada matéria inferior a 80% os pais do mesmo deverão ser notificados por e-mail pelo sistema.
+    Quando o aluno apresentar uma porcentagem de comparecimento as aulas inferior a 80% os pais do mesmo deverão ser notificados por e-mail pelo sistema.
 
 -Aprovação:
-    Ao final do ano, o programa informa aos respectivos coordenadores, as porcentagens relativas de presença dos alunos, que deverão reprovar aqueles que não tiverem comparecido a 75% das aulas em cada matéria.
+    Ao final do ano, o programa informa aos respectivos coordenadores, as porcentagens relativas de presença dos alunos, que deverão reprovar aqueles que não tiverem comparecido a 75% das aulas.
 
 ## Não-Funcionais:
 
