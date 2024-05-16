@@ -107,6 +107,8 @@
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
+<img src ="https://i.imgur.com/QURJOxb.png" alt="DiagramaEstados">
+
 # Diagrama de Implantação
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
@@ -114,3 +116,7 @@
 # Referências
 
 *&lt;Lista de referências&gt;*
+
+- Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.)
+- Larman, Craig. Utilizando UML e padrões. Disponível em: Minha Biblioteca, (3rd edição). Grupo A, 2011.
+- Filho, W.D.P. P. (2019). Engenharia de Software – Produtos – Vol.1 (4th ed.).
