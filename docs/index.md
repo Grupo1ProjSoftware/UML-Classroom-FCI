@@ -26,10 +26,10 @@
 
 # Autores
 
-* Joaquim Rafael Mariano Prieto Pereira
-* Lucas Trebacchetti Eiras
-* Henrique Árabe Neres de Farias
-* Antonio Carlos Sciamarelli Neto
+* Por: Joaquim Rafael Mariano Prieto Pereira  RA: 10408805 
+* Lucas Trebacchetti Eiras RA: 10401973
+* Henrique Árabe Neres de Farias RA: 10410152
+* Antonio Carlos Sciamarelli Neto  RA: 10409160
 
 
 # Descrição do Projeto
