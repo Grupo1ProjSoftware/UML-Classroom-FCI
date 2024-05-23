@@ -5,14 +5,14 @@
 # Projeto: *Escola INFINITO*
 
 # Grupo: *Real Madrid C.F.*
-* Joaquim Rafael Mariano Prieto Pereira
-* Lucas Trebacchetti Eiras
-* Henrique Árabe Neres de Farias
-* Antonio Carlos Sciamarelli Neto
+* Por: Joaquim Rafael Mariano Prieto Pereira  RA: 10408805 
+* Lucas Trebacchetti Eiras RA: 10401973
+* Henrique Árabe Neres de Farias RA: 10410152
+* Antonio Carlos Sciamarelli Neto  RA: 10409160
 
 # Descrição
 
-*Nossa equipe recebeu a tarefa de projetar um software para controle de presença de alunos de uma determinada escola para turmas do primeiro ao quinto ano do Ensino Fundamental I. O programa deve exibir os dados coletados e registrar as informações de forma intuitiva, sendo acessível para professores e coordenadores. Os professores serão responsáveis por administrar os registros no sistema em dois momentos do dia: ao começo das aulas e após o intervalo em todos os dias letivos. O sistema deve indicar a porcentagem relativa de presença diária a respeito de cada matéria, sendo necessário ao estudante manter ao menos 75% de presença em cada disciplina.*
+*Nossa equipe recebeu a tarefa de projetar um software para controle de presença de alunos de uma determinada escola para turmas do primeiro ao quinto ano do Ensino Fundamental I. O programa deve exibir os dados coletados e registrar as informações de forma intuitiva, sendo acessível para professores e coordenadores. Os professores serão responsáveis por administrar os registros no sistema em dois momentos do dia: ao começo das aulas e após o intervalo em todos os dias letivos. O sistema deve indicar a porcentagem relativa de presença até o momento, sendo necessário ao estudante manter ao menos 75% de comparecimento as aulas ao final do ano letivo.*
 
 # Documentação
 
