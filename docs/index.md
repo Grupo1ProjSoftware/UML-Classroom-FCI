@@ -113,6 +113,8 @@
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
 
+<img src ="https://i.imgur.com/KuqRuTm.png" alt="DiagramaImplementação">
+
 # Referências
 
 *&lt;Lista de referências&gt;*
